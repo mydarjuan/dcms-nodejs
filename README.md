@@ -4,7 +4,7 @@ DCMS 是一款开源的内容管理系统，本分支基于Express框架，如�
 ## 代码更新
 ### V0.0.1
 * 项目初始化
-* 增加ThinkPHP5引用框架
+* 增加Express引用框架
 * 添加AdminLte后台框架
 
 
